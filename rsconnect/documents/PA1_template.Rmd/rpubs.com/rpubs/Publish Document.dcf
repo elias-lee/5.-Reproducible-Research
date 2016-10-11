@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/215911/11b2c360cd36424986f8eab79da3aaae
+url: http://rpubs.com/lelias/215911
+when: 1475801470.42506
